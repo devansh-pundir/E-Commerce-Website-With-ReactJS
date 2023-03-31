@@ -1,0 +1,13 @@
+.shop-headline {
+  text-align: center;
+  padding: 20px;
+}
+
+.shop-container {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}

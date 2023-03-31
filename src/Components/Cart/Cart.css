@@ -1,0 +1,29 @@
+.cart-headline,
+.subtotal-headline {
+  text-align: center;
+  padding: 20px;
+}
+
+.cart-container {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.btn-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.continue-shopping-btn {
+  height: auto;
+  width: max-content;
+  outline: none;
+  border: solid 1px rgb(110, 163, 163);
+  border-radius: 2px;
+  padding: 2px;
+  background-color: transparent;
+}
